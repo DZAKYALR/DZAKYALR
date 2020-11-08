@@ -1,8 +1,17 @@
+
 ### Hi there 👋
+
+[![DZAKYALR's github stats](https://github-readme-stats.vercel.app/api?username=DZAKYALR)](https://github.com/DZAKYALR/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DZAKYALR&layout=compact)](https://github.com/DZAKYALR/github-readme-stats)
+
 
 <!--
 **DZAKYALR/DZAKYALR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/rmt-07-glasgow-fox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rmt-07-glasgow-fox" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

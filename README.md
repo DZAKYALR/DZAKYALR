@@ -1,10 +1,6 @@
 
 ### Hi there 👋
 
-[![DZAKYALR's github stats](https://github-readme-stats.vercel.app/api?username=DZAKYALR)](https://github.com/DZAKYALR/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DZAKYALR&layout=compact)](https://github.com/DZAKYALR/github-readme-stats)
 
 
 <!--
@@ -23,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)

@@ -1,6 +1,6 @@
 ![Dzaky Al Ridho Banner](https://i.imgur.com/DzPmBIP.jpg)
 
-Tech ever used <br />
+Tech ever used : <br />
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)

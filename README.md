@@ -34,6 +34,9 @@ Tech ever used : <br />
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
+![](https://img.shields.io/badge/logging%20library-323330?style=for-the-badge&logo=winston&logoColor=red)
+![](https://img.shields.io/badge/logging%20library-323330?style=for-the-badge&logo=morgan&logoColor=red)
+
 Cloud : <br />
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)

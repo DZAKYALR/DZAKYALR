@@ -60,7 +60,39 @@ flowchart LR
     M --> P[Workflows]
 ```
 
+## My Go To Architecture
 
+```mermaid
+flowchart TD
+    Dev[Developer Machine] --> Git[Git Repository]
+
+    Git --> CI[CI Pipeline]
+
+    CI --> Test[Run Unit & Integration Tests]
+    Test --> Coverage[Generate Coverage Report]
+    Coverage --> Sonar[SonarQube Analysis]
+
+    Sonar --> Gate{Quality Gate Passed?}
+
+    Gate -- No --> Block[Block Merge / Fix Code]
+    Gate -- Yes --> Build[Build Docker Image]
+
+    Build --> Registry[Container Registry]
+    Registry --> Deploy[Deploy to Server]
+
+    Deploy --> API[Go API]
+    Deploy --> Worker[Go Workers]
+
+    API --> Postgres[(PostgreSQL)]
+    Worker --> Postgres
+    API --> RabbitMQ[(RabbitMQ)]
+    Worker --> RabbitMQ
+
+    API --> Logs[Structured Logs]
+    Worker --> Logs
+    API --> Metrics[Metrics / Monitoring]
+    Worker --> Metrics
+```
 ## Connect
 
 * Email: [dzakyalr@gmail.com](mailto:dzakyalr@gmail.com)x

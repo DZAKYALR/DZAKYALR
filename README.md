@@ -47,17 +47,22 @@ flowchart LR
     A --> C[Business Logic]
     A --> D[Services]
 
-    E[Infrastructure] --> F[Cloud]
-    E --> G[VPS]
-    E --> H[On-premise]
+    E[Frontend] --> E1[Web Apps]
+    E --> E2[Mobile Apps]
+    E --> E3[Desktop Apps]
+    E --> E4[UI/UX Implementation]
 
-    I[Operations] --> J[Monitoring]
-    I --> K[Backups]
-    I --> L[Health Checks]
+    F[Infrastructure] --> G[Cloud]
+    F --> H[VPS]
+    F --> I[On-premise]
 
-    M[Product] --> N[Dashboards]
-    M --> O[Internal Tools]
-    M --> P[Workflows]
+    J[Operations] --> K[Monitoring]
+    J --> L[Backups]
+    J --> M[Health Checks]
+
+    N[Product] --> O[Dashboards]
+    N --> P[Internal Tools]
+    N --> Q[Workflows]
 ```
 
 ## My Go To Architecture
